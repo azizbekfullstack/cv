@@ -10,7 +10,7 @@
         </div>
         <div class="right">
           <div class="short">
-            <h3 class="name">Azizbek <span class="coloring">Karimov</span></h3>
+            <h3 class="name">Azizbek <span class="coloring">Karimov </span></h3>
             <h3 class="job">
               <AnimationText />
             </h3>
