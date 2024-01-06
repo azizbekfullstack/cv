@@ -11,11 +11,11 @@
             <div class="menu">
                 <Menu/>
             </div>
-            <div class="logo">
-                <a href="#" @click.prevent="handleSwitchLanguage('uz')"> <img src="/img/flag/uz.png" alt=""/></a>
-                <a href="#" @click.prevent="handleSwitchLanguage('ru')"> <img src="/img/flag/ru.png" alt=""/></a>
-                <a href="#" @click.prevent="handleSwitchLanguage('en')"> <img src="/img/flag/en.png" alt=""/></a>
-            </div>
+<!--            <div class="logo">-->
+<!--                <a href="#" @click.prevent="handleSwitchLanguage('uz')"> <img src="/img/flag/uz.png" alt=""/></a>-->
+<!--                <a href="#" @click.prevent="handleSwitchLanguage('ru')"> <img src="/img/flag/ru.png" alt=""/></a>-->
+<!--                <a href="#" @click.prevent="handleSwitchLanguage('en')"> <img src="/img/flag/en.png" alt=""/></a>-->
+<!--            </div>-->
         </div>
     </div>
 </template>
